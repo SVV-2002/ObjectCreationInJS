@@ -25,7 +25,7 @@ console.log("");
 
 //Person3
 var person3=new Person("Sravanthi","Garuda","Kakinada");
-console.log("Person 1 Properties:");
+console.log("Person 3 Properties:");
 console.log(person3);
 console.log("FirstName: "+person3.FirstName);
 console.log("LastName: "+person3.LastName);
